@@ -1,4 +1,4 @@
-#ZaplanujJedzonko.pl
+# ZaplanujJedzonko.pl
 
 Aplikacja webowa do zarządzania przepisami i planami posiłków <br>
 Projekt Grupowy <br><br>
