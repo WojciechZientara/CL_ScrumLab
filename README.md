@@ -1,7 +1,8 @@
 # ZaplanujJedzonko.pl
 
-Aplikacja webowa do zarządzania przepisami i planami posiłków <br>
-Projekt Grupowy <br><br>
+Recipes and meal plans management web application. <br>
+A group project created during the 'Java Developer: Web' course Scrum Lab module.
+<br><br>
 
 Java Servlets <br>
 JSP + JSTL <br>
